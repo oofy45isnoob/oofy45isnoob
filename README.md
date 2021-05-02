@@ -1,5 +1,5 @@
 # Hello There!
-### I Am Alex!
+### I Am Alex! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### Languages and Tools:
 
