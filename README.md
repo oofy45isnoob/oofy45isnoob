@@ -22,4 +22,4 @@ More Info?
 [![trophy](https://github-profile-trophy.vercel.app/?username=oofy45isnoob&theme=onedark&title=Joined2020,Commit,Followers,Repositories,Issue,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 ![oofy45isnoob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oofy45isnoob&show_icons=true&theme=gruvbox)
 <img align="center" alt="oofy's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oofy45isnoob&langs_count=8&layout=compact" />
-[![oofy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oofy45isnoob)](https://github.com/anuraghazra/github-readme-stats)
+![oofy's GitHub stats](https://github-readme-stats.vercel.app/api?username=oofy45isnoob&show_icons=true&theme=radical)
