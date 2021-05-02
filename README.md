@@ -22,4 +22,4 @@ More Info?
 
 #### There We Go
 ![oofy45isnoob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oofy45isnoob&show_icons=true&theme=gruvbox)
-<img align="center" alt="oofy's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1500&langs_count=8&layout=compact" />
+<img align="center" alt="oofy's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oofy45isnoob&langs_count=8&layout=compact" />
