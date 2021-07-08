@@ -1,7 +1,7 @@
 # Hello There!
 ### I Am Alex! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Koolwiza" alt="Koolwiza" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Koolwiza" alt="oofy45isnoob" /> </p>
 
 ### Languages and Tools:
 
