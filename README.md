@@ -17,7 +17,7 @@ More Info?
 ---
 
 #### There We Go
-[![trophy](https://github-profile-trophy.vercel.app/?username=oofy45isnoob&theme=onedark&title=Joined2020,Commit,Followers,Repositories,Issue,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-![oofy45isnoob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oofy45isnoob&show_icons=true&theme=gruvbox)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tomihad-ul-aibak&theme=onedark&title=Joined2020,Commit,Followers,Repositories,Issue,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+![oofy45isnoob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomihad-ul-aibak&show_icons=true&theme=gruvbox)
 <img align="center" alt="oofy's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oofy45isnoob&langs_count=8&layout=compact" />
-![oofy's GitHub stats](https://github-readme-stats.vercel.app/api?username=oofy45isnoob&show_icons=true&theme=radical)
+![oofy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomihad-ul-aibak&show_icons=true&theme=radical)
